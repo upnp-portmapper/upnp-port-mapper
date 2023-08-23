@@ -1,5 +1,5 @@
 # UPnP Port Mapper
-![UPnP Port Mapper](https://github.com/upnpportmapper/forwarding/blob/main/images/tool.png?raw=true)
+![UPnP Port Mapper](https://github.com/upnpportmapper/forwarding/blob/main/images/tool.jpeg?raw=true)
 ## Downloads
 [![UPnP Port Mapper Windows](https://github.com/upnpportmapper/forwarding/blob/main/images/windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-9FD4uBZt2pcj8dkMhWv3qiaQborurNH?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![UPnP Port Mapper Mac](https://github.com/upnpportmapper/forwarding/blob/main/images/mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-AznIvMNDpudn5T3KDw1ARDEGWAHk9IS?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 :-------------------------:|:-------------------------:
