@@ -5,7 +5,6 @@
 :-------------------------:|:-------------------------:
 [Windows](https://github.com/appdownloads/software/raw/main/upnp-portmapper-windows.zip)             |  [Mac](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
 ### Features
-- Completely FREE to download, install and use forever.
 - Map External TCP/UDP Port(s) To Internal Port(s).
 - Open External Ports On Your Router's Public IP (WAN).
 - Automatically Renews Expiring Port Mapping Leases.
